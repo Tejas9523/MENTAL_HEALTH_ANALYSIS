@@ -1,4 +1,6 @@
+Here's your revised project guide with the tutorial video included at the end in a clean and structured format:
 
+---
 
 # 🧠 Mental Health Analysis
 
@@ -32,9 +34,8 @@ Download and install Anaconda from the official website:
 
 ### 💻 4. Open Command Prompt in the Project Directory
 
-Navigate to the extracted folder and **open the Command Prompt** inside that folder. You can do this by:
-
-* Typing `cmd` in the folder path bar and pressing **Enter**
+Navigate to the extracted folder and **open the Command Prompt** inside that folder.
+💡 Tip: You can do this by typing `cmd` in the folder path bar and pressing **Enter**.
 
 ---
 
@@ -68,6 +69,18 @@ python app.py
 
 ---
 
-## ✅ You're all set!
+## ✅ You're All Set!
 
 Your mental health analysis app should now be running. If you face any issues, feel free to open an issue or reach out for help.
+
+---
+
+## 🎥 Watch the Tutorial
+
+For a step-by-step walkthrough, watch the tutorial video below:
+
+📺 [Watch on Google Drive](https://drive.google.com/file/d/1Mwdyrc56IuUV6S6U0NNF4UBSziHQmmyd/view?usp=drive_link)
+
+---
+
+Let me know if you'd like this exported as a PDF, Markdown file, or added to a `README.md`!
