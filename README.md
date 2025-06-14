@@ -6,6 +6,7 @@ This project focuses on analyzing mental health trends using Python. Follow the 
 
 ---
 
+
 ## 📦 Setup Instructions
 
 ### 🔽 1. Download the Project Folder
@@ -16,11 +17,13 @@ Download the project files from the link below:
 
 ---
 
+
 ### 📂 2. Extract the Folder
 
 Once downloaded, unzip or extract the folder to your desired location.
 
 ---
+
 
 ### 🐍 3. Install Anaconda (if not already installed)
 
@@ -30,12 +33,14 @@ Download and install Anaconda from the official website:
 
 ---
 
+
 ### 💻 4. Open Command Prompt in the Project Directory
 
 Navigate to the extracted folder and **open the Command Prompt** inside that folder.
 💡 Tip: You can do this by typing `cmd` in the folder path bar and pressing **Enter**.
 
 ---
+
 
 ### 🌱 5. Create a Virtual Environment
 
@@ -47,6 +52,7 @@ conda create --name myenv python=3.10
 
 ---
 
+
 ### 🚀 6. Activate the Environment
 
 Activate the newly created environment using:
@@ -56,6 +62,7 @@ conda activate myenv
 ```
 
 ---
+
 
 ### ▶️ 7. Run the Application
 
@@ -67,11 +74,13 @@ python app.py
 
 ---
 
+
 ## ✅ You're All Set!
 
 Your mental health analysis app should now be running. If you face any issues, feel free to open an issue or reach out for help.
 
 ---
+
 
 ## 🎥 Watch the Tutorial
 
