@@ -1,6 +1,3 @@
-Sure! Here's a clean, attractive, and well-formatted version of your instructions, ideal for a `README.md` file on GitHub:
-
----
 
 # 🧠 Mental Health Analysis
 
