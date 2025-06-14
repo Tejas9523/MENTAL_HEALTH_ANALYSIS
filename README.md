@@ -1,6 +1,4 @@
-Here's your revised project guide with the tutorial video included at the end in a clean and structured format:
 
----
 
 # 🧠 Mental Health Analysis
 
