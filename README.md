@@ -89,5 +89,3 @@ For a step-by-step walkthrough, watch the tutorial video below:
 📺 [Watch on Google Drive](https://drive.google.com/file/d/1Mwdyrc56IuUV6S6U0NNF4UBSziHQmmyd/view?usp=drive_link)
 
 ---
-
-Let me know if you'd like this exported as a PDF, Markdown file, or added to a `README.md`!
